@@ -8,7 +8,7 @@ DDoS TCP Flood attack is a condition where the attacker exploits the three-way h
 Serangan DDoS TCP Flood adalah kondisi dimana penyerang mengeksploitasi mekanisme three-way handshaking dari proses pembentukan koneksi TCP, dimana server akan dibanjiri dengan permintaan paket-paket SYN tanpa sempat direspon oleh server.
 
 ### How to install?
-1. ``$ git clone https://github.com/RCode777/TCP-Flooder``
+1. ``$ git clone https://github.com/RaffiDevYT/TCP-Flooder``
 2. ``$ cd TCP-Flooder``
 3. ``$ pip3 install progressbar``
 4. ``$ python3 attack.py``
